@@ -4,7 +4,7 @@
 #
 Name     : R-pbmcapply
 Version  : 1.4.1
-Release  : 13
+Release  : 14
 URL      : https://cran.r-project.org/src/contrib/pbmcapply_1.4.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/pbmcapply_1.4.1.tar.gz
 Summary  : Tracking the Progress of Mc*pply with Progress Bar
